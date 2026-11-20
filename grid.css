@@ -1,0 +1,45 @@
+.box{
+    border: 10px solid black;
+    display: grid;
+    grid-template-columns: repeat(19,1fr);
+    width: 800px;
+    border-style: double;
+    margin: auto;
+}
+.div{
+    border: 1px solid black;
+    height: 40px;
+}
+.box1, .box2, .box18, .box19, .box20,.box21, .box22, .box23, .box35, .box36, .box37, .box37,.box38, .box40, .box43, .box44, .box52, .box53, .box56,.box59,.box64, .box65, .box69, .box70, .box75, 
+.box78, .box85, .box87, .box94, .box97, .box103, .box104, .box105, .box106, .box107, .box113, .box117, .box118, .box120, .box128, .box130, .box131, .box138, .box148, .box156,.box168,.box175,.box178,.box179,.box180,
+.box182,.box183,.box184,.box187,.box194,.box196,.box200,.box204,.box206,.box213,.box215,.box223,.box225,.box232,.box233,.box243,.box244,.box251,.box252,.box262,.box263,.box271,.box281,.box291,.box299,.box309,
+.box312,.box316,.box319,.box327,.box330,.box332,.box334,.box336,.box339,.box347,.box348,.box352,.box356,.box357{
+    background-color: rgba(0, 0, 0, 0.795);
+}
+
+.box41, .box42, .box54, .box55, .box60, .box61, .box62, .box63, .box71, .box72, .box73, .box74, .box79, .box80, .box81, .box82, .box83, .box84, .box88, .box89, .box90, .box91, .box92, .box93, .box98, 
+.box99, .box100, .box101, .box102, .box108, .box109,.box110, .box111, .box112, .box119, .box121, .box122, .box126, .box127,.box129, .box139, .box140, .box142, .box144, .box146,.box147,.box157,.box158,.box159,
+.box160,.box164,.box165,.box166,.box167,.box176,.box177,.box181,.box185,.box186,.box195,.box205,.box214,.box224,.box310,.box311,.box313,.box314,.box315,.box317,.box318,.box328,.box329,.box333,.box337,.box338{
+    background-color: gray;
+}
+.box123, .box124, .box125, .box141, .box143, .box145, .box161, .box162, .box163,.box276,.box346,.box358,.box371{
+    background-color: pink;
+}
+.box235,.box236,.box240,.box241,.box255,.box259{
+    background-color: rgba(0, 0, 0, 0.918);
+}
+h1{
+    font-size: 100px;
+    color: purple;
+    text-align: center;
+    margin-top: 1px;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin-left: 5px;
+}
+figure{
+    text-align: center;
+    margin-left: 0px;
+}
